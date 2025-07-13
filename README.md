@@ -1,3 +1,3 @@
 # Performance-Dashboard
 
-![Portfolio Dashboard](performance dashboard.png)
+![Portfolio Dashboard](performance-dashboard.png)
